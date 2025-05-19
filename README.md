@@ -24,9 +24,11 @@ Este proyecto implementa un agente de análisis de sentimiento sobre comentarios
 
 ## Uso
 
-Ejecuta el agente desde la carpeta `src/`:
+Ejecuta el agente desde la carpeta ``:
 ```bash
-python chat_app.py
+azd auth login
+python src/setup_azure.py
+python src/chat_app.py --input tweets.csv --output results.json
 ```
 
 ## Exportación
