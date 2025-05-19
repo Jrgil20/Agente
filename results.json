@@ -1,0 +1,82 @@
+[
+  {
+    "tweet_id":1903230167352328459,
+    "username":"rafalejov",
+    "text":"Si se mantenía en su pensamiento sí pero resultó que jalarle bola a enchufados renta más https:\/\/t.co\/BcTMYbc10f",
+    "created_at":"2025-03-21T23:40:06.000Z",
+    "score":-0.8,
+    "label":"negativo",
+    "hashtags":[
+
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1903230037614010424,
+    "username":"rafalejov",
+    "text":"@LuisjLunar97 Correcto entró por el palo del arquero",
+    "created_at":"2025-03-21T23:39:35.000Z",
+    "score":-0.5,
+    "label":"negativo",
+    "hashtags":[
+
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1903228254598860986,
+    "username":"rafalejov",
+    "text":"Venezuela no está capacitada para ir a una Copa del Mundo. https:\/\/t.co\/kUsIOLr6VN",
+    "created_at":"2025-03-21T23:32:30.000Z",
+    "score":-0.8,
+    "label":"negativo",
+    "hashtags":[
+
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1903215617450160612,
+    "username":"rafalejov",
+    "text":"Se están cayendo a coñazo en la grada? Vi varios con camisetas del Táchira",
+    "created_at":"2025-03-21T22:42:17.000Z",
+    "score":-0.6,
+    "label":"negativo",
+    "hashtags":[
+
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1903212848848801908,
+    "username":"rafalejov",
+    "text":"RT @rafalejov: ¿El Dibu Martínez? No gracias yo soy más de Rafa Romo.",
+    "created_at":null,
+    "score":0.2,
+    "label":"neutral",
+    "hashtags":[
+
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  }
+]
