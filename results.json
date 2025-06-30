@@ -84,6 +84,54 @@
     "username":"tomapapa",
     "text":"#TOMAPAPA\n\nSALOOOOOOOOOOOOO DE PENAAAAAAAAAAAAAAALLLL\n\nTOMAPAPAAAAAAAAA!!!!!\n\nCALMA!!!!! CLASE!!!! CATEGORÍA!!!!\n\nUNO A CERO AL 58’!!!!!\n\nVENEZUELAAAAAAAA!!!!!!",
     "created_at":"2024-06-27T02:17:05.000Z",
+    "score":0.9,
+    "label":"positivo",
+    "hashtags":[
+      "#tomapapa"
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1806157434337292591,
+    "username":"tomapapa",
+    "text":"RAFAAAAAAAAAA\n\nROMOOOOOOOO\n\nDE MI VIDAAAAAAAAAAAAAA\n\nRAFAAAAAAAAAAAAA ROMOOOOOOOOO PARA PRESIDENTEEEEEEEE!!!!!!!",
+    "created_at":"2024-06-27T02:47:43.000Z",
+    "score":0.9,
+    "label":"positivo",
+    "hashtags":[
+
+    ],
+    "keywords":[
+
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1806156792566825239,
+    "username":"tomapapa",
+    "text":"Penal para México 🇲🇽 \n\nMe quiero matar.",
+    "created_at":"2024-06-27T02:45:10.000Z",
+    "score":0.0,
+    "label":"filtered_by_policy",
+    "hashtags":[
+
+    ],
+    "keywords":[
+      "penal"
+    ],
+    "retweets":0,
+    "likes":0
+  },
+  {
+    "tweet_id":1806149722471850347,
+    "username":"tomapapa",
+    "text":"#TOMAPAPA\n\nSALOOOOOOOOOOOOO DE PENAAAAAAAAAAAAAAALLLL\n\nTOMAPAPAAAAAAAAA!!!!!\n\nCALMA!!!!! CLASE!!!! CATEGORÍA!!!!\n\nUNO A CERO AL 58’!!!!!\n\nVENEZUELAAAAAAAA!!!!!!",
+    "created_at":"2024-06-27T02:17:05.000Z",
     "score":0.8,
     "label":"positivo",
     "hashtags":[
@@ -132,55 +180,7 @@
     "username":"tomapapa",
     "text":"#TOMAPAPA\n\nSALOOOOOOOOOOOOO DE PENAAAAAAAAAAAAAAALLLL\n\nTOMAPAPAAAAAAAAA!!!!!\n\nCALMA!!!!! CLASE!!!! CATEGORÍA!!!!\n\nUNO A CERO AL 58’!!!!!\n\nVENEZUELAAAAAAAA!!!!!!",
     "created_at":"2024-06-27T02:17:05.000Z",
-    "score":0.9,
-    "label":"positivo",
-    "hashtags":[
-      "#tomapapa"
-    ],
-    "keywords":[
-
-    ],
-    "retweets":0,
-    "likes":0
-  },
-  {
-    "tweet_id":1806157434337292591,
-    "username":"tomapapa",
-    "text":"RAFAAAAAAAAAA\n\nROMOOOOOOOO\n\nDE MI VIDAAAAAAAAAAAAAA\n\nRAFAAAAAAAAAAAAA ROMOOOOOOOOO PARA PRESIDENTEEEEEEEE!!!!!!!",
-    "created_at":"2024-06-27T02:47:43.000Z",
     "score":0.8,
-    "label":"positivo",
-    "hashtags":[
-
-    ],
-    "keywords":[
-
-    ],
-    "retweets":0,
-    "likes":0
-  },
-  {
-    "tweet_id":1806156792566825239,
-    "username":"tomapapa",
-    "text":"Penal para México 🇲🇽 \n\nMe quiero matar.",
-    "created_at":"2024-06-27T02:45:10.000Z",
-    "score":0.0,
-    "label":"filtered_by_policy",
-    "hashtags":[
-
-    ],
-    "keywords":[
-      "penal"
-    ],
-    "retweets":0,
-    "likes":0
-  },
-  {
-    "tweet_id":1806149722471850347,
-    "username":"tomapapa",
-    "text":"#TOMAPAPA\n\nSALOOOOOOOOOOOOO DE PENAAAAAAAAAAAAAAALLLL\n\nTOMAPAPAAAAAAAAA!!!!!\n\nCALMA!!!!! CLASE!!!! CATEGORÍA!!!!\n\nUNO A CERO AL 58’!!!!!\n\nVENEZUELAAAAAAAA!!!!!!",
-    "created_at":"2024-06-27T02:17:05.000Z",
-    "score":0.9,
     "label":"positivo",
     "hashtags":[
       "#tomapapa"
